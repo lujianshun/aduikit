@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="BgGray">#CCCCCC</color>
+    <color name="bg_yellow">#FFF9ED</color>
+    <color name="colorBgGray">#F9F9F9</color>
+    <color name="colorBtnDisableGray">#CECECE</color>
+    <color name="colorDialogGray">#E4E4E4</color>
+    <color name="colorDivideGray">#E8E8E8</color>
+    <color name="colorFewGreen">#4C8CF8</color>
+    <color name="colorHalfBlack">#7E000000</color>
+    <color name="colorHintTextBlack">#C8C8C8</color>
+    <color name="colorPrimaryRed">#FF5A56</color>
+    <color name="colorPrimaryTextBlack">#333333</color>
+    <color name="colorRemindTextBlack">#999999</color>
+    <color name="colorResourseGray">#D1D1D1</color>
+    <color name="colorSecondaryTextBlack">#666666</color>
+    <color name="colorSelectContentGray">#CDCDCD</color>
+    <color name="colorSelectTitleGray">#F3F5F9</color>
+    <color name="color_white">#FFFFFF</color>
+    <declare-styleable name="DeletableEditText"><attr format="string" name="hintText"/><attr format="color" name="hintColor"/><attr format="string" name="rightResourse"/><attr format="string" name="labelText"/><attr format="boolean" name="isPassVisable"/><attr name="android:inputType"/><attr name="android:maxLength"/><attr name="android:maxEms"/><attr name="android:text"/><attr format="string" name="area"/><attr format="string" name="leftIcon"/><attr format="boolean" name="leftVisable"/><attr format="string" name="rightIcon"/><attr format="boolean" name="rightVisable"/><attr format="integer" name="labelLength"/></declare-styleable>
+    <declare-styleable name="LabelWithTextView"/>
+    <declare-styleable name="LoadingButton"><attr format="string" name="btnStr"/><attr format="color" name="btnTextColor"/><attr format="color" name="btnBgColor"/></declare-styleable>
+    <declare-styleable name="NoticeTextView"><attr format="string" name="notice"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="divide_height">0.5dp</dimen>
+    <dimen name="text_large">16sp</dimen>
+    <dimen name="text_largest">18sp</dimen>
+    <dimen name="text_mid">15sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+    <dimen name="text_smaller">13sp</dimen>
+    <dimen name="text_smallest">12sp</dimen>
+    <dimen name="text_xieyi">13sp</dimen>
+    <string name="app_name">UIKitLib</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_content">内容</string>
+    <string name="dialog_notice">提示</string>
+    <string name="dialog_ok">确定</string>
+    <string name="edittext_input">内容</string>
+    <string name="icon_fount_checkbox"></string>
+    <string name="icon_fount_clear"></string>
+    <string name="icon_fount_down"></string>
+    <string name="icon_fount_invisable"></string>
+    <string name="icon_fount_right"></string>
+    <string name="icon_fount_visable"></string>
+</resources>
